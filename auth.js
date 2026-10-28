@@ -3,3 +3,5 @@
 
 // TODO: Register user
 // TODO: Login user with JWT
+
+// Additional: email uniqueness validation
