@@ -3,3 +3,5 @@
 
 // TODO: Send SMS reminder
 // TODO: Calculate 10% commission on completed bookings
+
+// Additional: generate commission report for business owner
